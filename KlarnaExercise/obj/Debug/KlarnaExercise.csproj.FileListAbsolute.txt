@@ -16,9 +16,6 @@ C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercis
 C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\obj\Debug\KlarnaExercise.pdb
 C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\bin\Debug\KlarnaExercise.exe
 C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\bin\Debug\KlarnaExercise.pdb
-C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\bin\Debug\nunit.framework.dll
-C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\bin\Debug\nunit.framework.xml
-C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\obj\Debug\KlarnaExercise.csprojResolveAssemblyReference.cache
 C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\obj\Debug\MainWindow.baml
 C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\obj\Debug\MainWindow.g.cs
 C:\Users\Mike\Documents\Visual Studio 2015\Projects\KlarnaExercise\KlarnaExercise\obj\Debug\App.g.cs
